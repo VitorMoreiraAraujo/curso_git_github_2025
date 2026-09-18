@@ -10,6 +10,7 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 Não atualizei a lista de comandos
 
+## Fluxo  de trabalho Git local
 
 1. git checkou -b <nova-branch>
 2. cria ou atualiza arquivos
