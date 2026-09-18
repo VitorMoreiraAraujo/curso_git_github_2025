@@ -8,12 +8,8 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
-<<<<<<< HEAD
 Não atualizei a lista de comandos
 
-=======
-## Fluxo  de trabalho Git local
->>>>>>> d442538fdf949ff14450a0ee64dcb1a9f3fed5c6
 
 1. git checkou -b <nova-branch>
 2. cria ou atualiza arquivos
