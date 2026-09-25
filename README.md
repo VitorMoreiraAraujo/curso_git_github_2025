@@ -12,7 +12,7 @@ Não atualizei a lista de comandos
 
 Se liga no site e youtube do canal do TeoMeWhy
 
-[teomewhy.org](https://teomewhy.org/)
+[teomewhy.org](https://teomewhy.org/schedule)
 
 ## Fluxo  de trabalho Git local
 
