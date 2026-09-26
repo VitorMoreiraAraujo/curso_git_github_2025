@@ -10,6 +10,10 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 Não atualizei a lista de comandos
 
+Se liga no site e youtube do canal do TeoMeWhy
+
+[teomewhy.org](https://teomewhy.org/schedule)
+
 ## Fluxo  de trabalho Git local
 
 1. git checkou -b <nova-branch>
